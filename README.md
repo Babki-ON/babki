@@ -12,7 +12,7 @@
 📄 [Lite Paper (PDF)](https://drive.google.com/file/d/14lUPFfBXeljXNsSUsFzpjbw0iqq5GrOU/view)
 
 **Контакты**  
-✉️ babki@protonmail.com  
+✉️ info@babkicompute.com  
 📟 [Telegram Bot](https://t.me/BabkiON_bot)
 
 ---
