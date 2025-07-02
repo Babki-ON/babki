@@ -35,4 +35,4 @@
 - Подключение второй ноды
 
 Следите за апдейтами:
-🔗 [Telegram](https://t.me/BabkiON_bot) | 🌍 [Сайт](https://www.babkicompute.com/))
+🔗 [Telegram](https://t.me/BabkiON_bot) | 🌍 [Сайт](https://www.babkicompute.com/)
